@@ -1,0 +1,6 @@
+aws_region   = "eu-west-1"
+localstack_endpoint = "http://localhost:4566"
+localstack_dummy  = "test"
+instance_type = "t3.medium"
+ami           = "ami-12345678"
+name          = "test"
